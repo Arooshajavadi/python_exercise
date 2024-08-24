@@ -1,2 +1,2 @@
-# python_exersice
+# python_exercise
 my python exercises
